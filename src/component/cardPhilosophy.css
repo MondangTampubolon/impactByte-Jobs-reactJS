@@ -1,0 +1,11 @@
+.wrapper{
+  margin-right: 100px;
+  margin-left: 100px;
+  box-shadow: 0 0 40px 5px rgba(0,0,0,0.8);
+
+}
+
+Button{
+  padding-left: 100px;
+  font-size: larger;
+}

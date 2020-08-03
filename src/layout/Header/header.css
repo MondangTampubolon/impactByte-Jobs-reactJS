@@ -1,0 +1,24 @@
+.atas{
+  display: inline;
+  justify-content: space-around;
+}
+.brand{
+  display: inline;
+}
+.search{
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  padding-left: 900px;
+  padding-right: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: grey;
+  }
+.navbar{
+  background-color: ivory;
+  position: fixed;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

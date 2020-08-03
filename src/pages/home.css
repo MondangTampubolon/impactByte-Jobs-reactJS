@@ -1,0 +1,35 @@
+header {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0 0 40px 5px rgba(0,0,0,0.8);
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 900px;
+  width: 100%;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+.wrapperVideo {
+  display: flex;
+  justify-content: space-between;
+}
+.section4 {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
